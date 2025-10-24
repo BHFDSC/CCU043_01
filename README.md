@@ -1,8 +1,8 @@
-# Project name
+# Variations in the risk of new-onset diabetes following COVID-19 infection across body mass index, deprivation, ethnicity, and geographic regions: Population-based cohort study in 42 million people in England
 
 ## Project description
 
-Description will be added here.
+This study aimed to address these gaps by assessing the incidence of new onset diabetes in individuals without prior diabetes following SARS-CoV-2 infection. Using a large, national-level cohort with extended follow-up (of over four years), we examined how BMI, deprivation, ethnicity, and geographical region are associated with the risk of post-COVID-19 onset of diabetes. This research has the potential to further clarify if, and to what extent, COVID-19 is associated with the risk of new-onset diabetes and contribute further insights into a potential causal link, while informing clinical guidance and public health policies for diabetes screening strategies following COVID-19.
 
 ## How to cite this work
 > Citation details to follow
